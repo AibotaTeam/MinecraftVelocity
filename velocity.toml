@@ -41,7 +41,7 @@ lobby = "49.232.201.119:25575"
 
 # In what order we should try servers when a player logs in or is kicked from aserver.
 try = [
-  "sf4"
+  "lobby"
 ]
 
 [forced-hosts]

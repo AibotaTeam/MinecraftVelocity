@@ -1,1 +1,1 @@
-java -Xms128M -Xmx128M -jar velocity-proxy-1.0.8-all.jar nogui
+java -Xms128M -Xmx128M -jar velocity.jar nogui
