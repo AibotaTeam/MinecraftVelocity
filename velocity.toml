@@ -36,21 +36,21 @@ announce-forge = true
 [servers]
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
-sf4 = "127.0.0.1:25635"
-lobby = "49.232.201.119:25575"
+"天空工厂4" = "127.0.0.1:25635"
+"登录大厅" = "49.232.201.119:25575"
 
 # In what order we should try servers when a player logs in or is kicked from aserver.
 try = [
-  "lobby"
+  "天空工厂4"
 ]
 
 [forced-hosts]
 # Configure your forced hosts here.
 "lobby.example.com" = [
-  "lobby"
+  "登录大厅"
 ]
 "factions.example.com" = [
-  "sf4"
+  "天空工厂4"
 ]
 
 [advanced]

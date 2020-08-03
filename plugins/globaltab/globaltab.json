@@ -1,0 +1,16 @@
+{
+  "footer":"&r==================\n&6&l\u4f60\u7684\u91d1\u5e01: &a&l%balance%\n&6&l\u5ef6\u8fdf: &e&l%ping% ms\n&6&l\u603b\u5728\u7ebf\u4eba\u6570: &e&l%playercount%\n&r==================\n&7&l\u6211\u4eec\u7684QQ\u7fa4: 571075430",
+  "customtabs":[
+    "&3Your ping : &e%ping%",
+    "&3Current server : &e%server%",
+    "&3Balance : &e%balance%"
+  ],
+  "disabled_servers":[
+    "thisserverwonthavethetab"
+  ],
+  "header":"&7&l\u6b22\u8fce\u60a8, &r&l%username%\n&r==================",
+  "updatedelay":"1",
+  "player_format":"%prefix% &r%username%&r %suffix%",
+  "customtabsenabled": false,
+  "chat_format":"&b[%server%]&r %prefix% &r<%username%>%suffix%&r: %message%"
+}
