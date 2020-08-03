@@ -41,7 +41,7 @@ announce-forge = true
 
 # In what order we should try servers when a player logs in or is kicked from aserver.
 try = [
-  "天空工厂4"
+  "登录大厅"
 ]
 
 [forced-hosts]
